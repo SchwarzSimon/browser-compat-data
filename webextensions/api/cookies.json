@@ -7,7 +7,7 @@
             "mdn_url": "https://developer.mozilla.org/docs/Mozilla/Add-ons/WebExtensions/API/cookies/Cookie",
             "support": {
               "chrome": {
-                "version_added": "6"
+                "version_added": "42"
               },
               "edge": "mirror",
               "firefox": {
