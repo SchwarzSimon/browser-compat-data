@@ -600,7 +600,7 @@ if (esMain(import.meta)) {
   }
 
   const remote = exec(
-    'git remote -v | grep "mdn/browser-compat-data" | awk \'{print $1}\' | uniq',
+    'git remote -v | grep "SchwarzSimon/browser-compat-data" | awk \'{print $1}\' | uniq',
   );
 
   /**
